@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 URL configuration for myshop project.
 
@@ -15,6 +16,8 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 
+=======
+>>>>>>> d9679e90beb07769dcace178c687f635124c8a43
 from django.contrib import admin
 from django.urls import path, include
 
